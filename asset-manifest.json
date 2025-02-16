@@ -1,25 +1,32 @@
 {
   "files": {
-    "main.css": "/LJimenez88/MyPortfolio/static/css/main.87bf4572.css",
-    "main.js": "/LJimenez88/MyPortfolio/static/js/main.9feadd0b.js",
-    "static/js/206.020cae30.chunk.js": "/LJimenez88/MyPortfolio/static/js/206.020cae30.chunk.js",
-    "static/media/occord.png": "/LJimenez88/MyPortfolio/static/media/occord.b09b12da0e8ad3f7be47.png",
-    "static/media/digitalNest.png": "/LJimenez88/MyPortfolio/static/media/digitalNest.5a7f6afe3d16b205c656.png",
-    "static/media/ucsc.png": "/LJimenez88/MyPortfolio/static/media/ucsc.40aab0b68239b958663c.png",
-    "static/media/ftg.png": "/LJimenez88/MyPortfolio/static/media/ftg.f786865cb9e40aa60806.png",
-    "static/media/CentralCoastComedy.png": "/LJimenez88/MyPortfolio/static/media/CentralCoastComedy.65902f01ddd6ad8be59f.png",
-    "static/media/randomizer.png": "/LJimenez88/MyPortfolio/static/media/randomizer.7a3cc0e906fba8b370b6.png",
-    "static/media/nestFlow.png": "/LJimenez88/MyPortfolio/static/media/nestFlow.d21f9e413f86817bc07d.png",
-    "static/media/home-main.svg": "/LJimenez88/MyPortfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/LJimenez88/MyPortfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Resume.pdf": "/LJimenez88/MyPortfolio/static/media/Resume.557cb9e10b64c4d6fe24.pdf",
-    "static/media/home-bg.jpg": "/LJimenez88/MyPortfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/LJimenez88/MyPortfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/LJimenez88/MyPortfolio/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/LJimenez88/MyPortfolio/index.html"
+    "main.css": "/LJimenez88/MyPortfolio/static/css/main.3358fe06.chunk.css",
+    "main.js": "/LJimenez88/MyPortfolio/static/js/main.03f6a8a5.chunk.js",
+    "runtime-main.js": "/LJimenez88/MyPortfolio/static/js/runtime-main.2d8a46fa.js",
+    "static/css/2.2867fc62.chunk.css": "/LJimenez88/MyPortfolio/static/css/2.2867fc62.chunk.css",
+    "static/js/2.d634793f.chunk.js": "/LJimenez88/MyPortfolio/static/js/2.d634793f.chunk.js",
+    "static/js/3.d1b65050.chunk.js": "/LJimenez88/MyPortfolio/static/js/3.d1b65050.chunk.js",
+    "static/js/4.136d2505.chunk.js": "/LJimenez88/MyPortfolio/static/js/4.136d2505.chunk.js",
+    "index.html": "/LJimenez88/MyPortfolio/index.html",
+    "static/js/2.d634793f.chunk.js.LICENSE.txt": "/LJimenez88/MyPortfolio/static/js/2.d634793f.chunk.js.LICENSE.txt",
+    "static/media/CentralCoastComedy.65902f01.png": "/LJimenez88/MyPortfolio/static/media/CentralCoastComedy.65902f01.png",
+    "static/media/Resume.557cb9e1.pdf": "/LJimenez88/MyPortfolio/static/media/Resume.557cb9e1.pdf",
+    "static/media/about.aee0f771.png": "/LJimenez88/MyPortfolio/static/media/about.aee0f771.png",
+    "static/media/avatar.5852f40f.svg": "/LJimenez88/MyPortfolio/static/media/avatar.5852f40f.svg",
+    "static/media/digitalNest.5a7f6afe.png": "/LJimenez88/MyPortfolio/static/media/digitalNest.5a7f6afe.png",
+    "static/media/ftg.f786865c.png": "/LJimenez88/MyPortfolio/static/media/ftg.f786865c.png",
+    "static/media/style.css": "/LJimenez88/MyPortfolio/static/media/pre.d4812f51.svg",
+    "static/media/home-main.541f8179.svg": "/LJimenez88/MyPortfolio/static/media/home-main.541f8179.svg",
+    "static/media/nestFlow.d21f9e41.png": "/LJimenez88/MyPortfolio/static/media/nestFlow.d21f9e41.png",
+    "static/media/occord.b09b12da.png": "/LJimenez88/MyPortfolio/static/media/occord.b09b12da.png",
+    "static/media/randomizer.7a3cc0e9.png": "/LJimenez88/MyPortfolio/static/media/randomizer.7a3cc0e9.png",
+    "static/media/ucsc.40aab0b6.png": "/LJimenez88/MyPortfolio/static/media/ucsc.40aab0b6.png"
   },
   "entrypoints": [
-    "static/css/main.87bf4572.css",
-    "static/js/main.9feadd0b.js"
+    "static/js/runtime-main.2d8a46fa.js",
+    "static/css/2.2867fc62.chunk.css",
+    "static/js/2.d634793f.chunk.js",
+    "static/css/main.3358fe06.chunk.css",
+    "static/js/main.03f6a8a5.chunk.js"
   ]
 }
