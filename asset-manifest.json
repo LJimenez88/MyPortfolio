@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/LJimenez88/MyPortfolio/static/css/main.3358fe06.chunk.css",
-    "main.js": "/LJimenez88/MyPortfolio/static/js/main.03f6a8a5.chunk.js",
-    "runtime-main.js": "/LJimenez88/MyPortfolio/static/js/runtime-main.2d8a46fa.js",
+    "main.js": "/LJimenez88/MyPortfolio/static/js/main.89e52c78.chunk.js",
+    "runtime-main.js": "/LJimenez88/MyPortfolio/static/js/runtime-main.35b1b838.js",
     "static/css/2.2867fc62.chunk.css": "/LJimenez88/MyPortfolio/static/css/2.2867fc62.chunk.css",
-    "static/js/2.d634793f.chunk.js": "/LJimenez88/MyPortfolio/static/js/2.d634793f.chunk.js",
+    "static/js/2.88f6f63d.chunk.js": "/LJimenez88/MyPortfolio/static/js/2.88f6f63d.chunk.js",
     "static/js/3.d1b65050.chunk.js": "/LJimenez88/MyPortfolio/static/js/3.d1b65050.chunk.js",
-    "static/js/4.136d2505.chunk.js": "/LJimenez88/MyPortfolio/static/js/4.136d2505.chunk.js",
     "index.html": "/LJimenez88/MyPortfolio/index.html",
-    "static/js/2.d634793f.chunk.js.LICENSE.txt": "/LJimenez88/MyPortfolio/static/js/2.d634793f.chunk.js.LICENSE.txt",
+    "static/js/2.88f6f63d.chunk.js.LICENSE.txt": "/LJimenez88/MyPortfolio/static/js/2.88f6f63d.chunk.js.LICENSE.txt",
     "static/media/CentralCoastComedy.65902f01.png": "/LJimenez88/MyPortfolio/static/media/CentralCoastComedy.65902f01.png",
     "static/media/Resume.557cb9e1.pdf": "/LJimenez88/MyPortfolio/static/media/Resume.557cb9e1.pdf",
     "static/media/about.aee0f771.png": "/LJimenez88/MyPortfolio/static/media/about.aee0f771.png",
@@ -23,10 +22,10 @@
     "static/media/ucsc.40aab0b6.png": "/LJimenez88/MyPortfolio/static/media/ucsc.40aab0b6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d8a46fa.js",
+    "static/js/runtime-main.35b1b838.js",
     "static/css/2.2867fc62.chunk.css",
-    "static/js/2.d634793f.chunk.js",
+    "static/js/2.88f6f63d.chunk.js",
     "static/css/main.3358fe06.chunk.css",
-    "static/js/main.03f6a8a5.chunk.js"
+    "static/js/main.89e52c78.chunk.js"
   ]
 }
