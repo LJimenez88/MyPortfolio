@@ -42,7 +42,7 @@ function Projects() {
               description="BizzNestFlow is an intuitive and efficient internal tool designed to streamline workflows and enhance collaboration. Built with React.js, Node.js, and MySQL, it provides a seamless user experience for managing data, automating tasks, and integrating with existing systems. The platform ensures secure access controls, real-time data processing making it a scalable solution for teams looking to optimize their operations."
               demoLink="/"
             />
-          </Col>
+          </Col>      
 
           <Col md={4} className="project-card">
             <ProjectCard
