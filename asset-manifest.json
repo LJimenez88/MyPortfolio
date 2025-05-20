@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.c544b4fc.css",
-    "main.js": "/MyPortfolio/static/js/main.5df1f0b6.js",
-    "static/js/453.ace21015.chunk.js": "/MyPortfolio/static/js/453.ace21015.chunk.js",
-    "static/media/occord.png": "/MyPortfolio/static/media/occord.b09b12da0e8ad3f7be47.png",
-    "static/media/digitalNest.png": "/MyPortfolio/static/media/digitalNest.5a7f6afe3d16b205c656.png",
-    "static/media/ucsc.png": "/MyPortfolio/static/media/ucsc.40aab0b68239b958663c.png",
-    "static/media/ftg.png": "/MyPortfolio/static/media/ftg.f786865cb9e40aa60806.png",
-    "static/media/CentralCoastComedy.png": "/MyPortfolio/static/media/CentralCoastComedy.65902f01ddd6ad8be59f.png",
-    "static/media/randomizer.png": "/MyPortfolio/static/media/randomizer.7a3cc0e906fba8b370b6.png",
-    "static/media/nestFlow.png": "/MyPortfolio/static/media/nestFlow.d21f9e413f86817bc07d.png",
-    "static/media/home-main.svg": "/MyPortfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/MyPortfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Resume.pdf": "/MyPortfolio/static/media/Resume.348e093114aab16858cd.pdf",
-    "static/media/home-bg.jpg": "/MyPortfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/MyPortfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/MyPortfolio/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/MyPortfolio/index.html",
-    "main.c544b4fc.css.map": "/MyPortfolio/static/css/main.c544b4fc.css.map",
-    "main.5df1f0b6.js.map": "/MyPortfolio/static/js/main.5df1f0b6.js.map",
-    "453.ace21015.chunk.js.map": "/MyPortfolio/static/js/453.ace21015.chunk.js.map"
+    "main.css": "/static/css/main.2aec7096.css",
+    "main.js": "/static/js/main.b1006a58.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/occord.png": "/static/media/occord.b09b12da0e8ad3f7be47.png",
+    "static/media/digitalNest.png": "/static/media/digitalNest.5a7f6afe3d16b205c656.png",
+    "static/media/ucsc.png": "/static/media/ucsc.40aab0b68239b958663c.png",
+    "static/media/ftg.png": "/static/media/ftg.f786865cb9e40aa60806.png",
+    "static/media/CentralCoastComedy.png": "/static/media/CentralCoastComedy.65902f01ddd6ad8be59f.png",
+    "static/media/randomizer.png": "/static/media/randomizer.7a3cc0e906fba8b370b6.png",
+    "static/media/nestFlow.png": "/static/media/nestFlow.d21f9e413f86817bc07d.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Resume.pdf": "/static/media/Resume.348e093114aab16858cd.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.2aec7096.css.map": "/static/css/main.2aec7096.css.map",
+    "main.b1006a58.js.map": "/static/js/main.b1006a58.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c544b4fc.css",
-    "static/js/main.5df1f0b6.js"
+    "static/css/main.2aec7096.css",
+    "static/js/main.b1006a58.js"
   ]
 }
