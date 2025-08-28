@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.2aec7096.css",
-    "main.js": "/static/js/main.b1006a58.js",
+    "main.js": "/static/js/main.73098039.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/occord.png": "/static/media/occord.b09b12da0e8ad3f7be47.png",
     "static/media/digitalNest.png": "/static/media/digitalNest.5a7f6afe3d16b205c656.png",
+    "static/media/pennUnited.png": "/static/media/pennUnited.5c6990b2d82021e04c3e.png",
     "static/media/ucsc.png": "/static/media/ucsc.40aab0b68239b958663c.png",
     "static/media/ftg.png": "/static/media/ftg.f786865cb9e40aa60806.png",
     "static/media/CentralCoastComedy.png": "/static/media/CentralCoastComedy.65902f01ddd6ad8be59f.png",
+    "static/media/updatedCentralCoastComedy.png": "/static/media/updatedCentralCoastComedy.663276fcfd38408c210c.png",
     "static/media/randomizer.png": "/static/media/randomizer.7a3cc0e906fba8b370b6.png",
-    "static/media/nestFlow.png": "/static/media/nestFlow.d21f9e413f86817bc07d.png",
+    "static/media/nestFlow.png": "/static/media/nestFlow.c46fcdd53dab1646ac07.png",
+    "static/media/botOrNot.png": "/static/media/botOrNot.bd1c564237c534d9a139.png",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/Resume.pdf": "/static/media/Resume.348e093114aab16858cd.pdf",
@@ -18,11 +21,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.2aec7096.css.map": "/static/css/main.2aec7096.css.map",
-    "main.b1006a58.js.map": "/static/js/main.b1006a58.js.map",
+    "main.73098039.js.map": "/static/js/main.73098039.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2aec7096.css",
-    "static/js/main.b1006a58.js"
+    "static/js/main.73098039.js"
   ]
 }
