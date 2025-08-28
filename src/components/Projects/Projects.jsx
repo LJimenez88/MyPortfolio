@@ -10,11 +10,8 @@ import nestFlow from "../../Assets/Projects/nestFlow.png";
 import ucsc from "../../Assets/Projects/ucsc.png";
 import randomizer from "../../Assets/Projects/randomizer.png";
 import botornot from "../../Assets/Projects/botOrNot.png";
-import bizznestFlowDemo from "../../Assets/Projects/bizznestFlowDemo.mov";
 import pennUnited from "../../Assets/Projects/pennUnited.png";
-import pennUnitedDemo from "../../Assets/Projects/pennUnitedDemo.mov";
 import uccc from "../../Assets/Projects/updatedCentralCoastComedy.png";
-import updatedCCCDemo from "../../Assets/Projects/updatedCCCDemo.mov";
 
 
 
@@ -38,7 +35,7 @@ function Projects() {
               title="BizzNestFlow"
               description="BizzNestFlow is an intuitive and efficient internal tool designed to streamline workflows and enhance collaboration. Built with React.js, Node.js, and MySQL, it provides a seamless user experience for managing data, automating tasks, and integrating with existing systems. The platform ensures secure access controls, real-time data processing making it a scalable solution for teams looking to optimize their operations."
               demoLink="https://flow.bizznest.org/"
-              videoLink={bizznestFlowDemo}
+              videoLink="https://www.youtube.com/watch?v=J9kfuBwib8E"
             />
           </Col>  
 
@@ -89,7 +86,7 @@ function Projects() {
               title="Pennsylvania United"
               description="Restructured the Pennsylvania United website to improve design, usability, and performance, ensuring a cleaner and more user-friendly experience. Using WordPress, PHP, and JavaScript, we integrated APIs to fetch event data from a third-party platform and display it dynamically. We built a custom filtering system based data provided by the API, enabling visitors to easily search and sort upcoming events by category, date, and location."
               demoLink="https://paunited.org/"
-              videoLink={pennUnitedDemo}
+              videoLink="https://www.youtube.com/watch?v=FWCQ4Qe-WII"
             />
           </Col> 
 
@@ -129,7 +126,7 @@ function Projects() {
               isBlog={false}
               title="Updated Central Coast Comedy"
               description="A dynamic upgraded website for Central Coast Comedy that was never launched. This sort of style gives it a bit more color to it and a more modern look. It has a responsive design and event booking integrattion, making it an easy platform to use for comedy enthustiasts."
-              videoLink={updatedCCCDemo}
+              videoLink="https://www.youtube.com/watch?v=mxAq1xdEiwU"
             />
           </Col>
         </Row>
