@@ -9,6 +9,13 @@ import ccc from "../../Assets/Projects/CentralCoastComedy.png";
 import nestFlow from "../../Assets/Projects/nestFlow.png";
 import ucsc from "../../Assets/Projects/ucsc.png";
 import randomizer from "../../Assets/Projects/randomizer.png";
+import botornot from "../../Assets/Projects/botOrNot.png";
+import bizznestFlowDemo from "../../Assets/Projects/bizznestFlowDemo.mov";
+import pennUnited from "../../Assets/Projects/pennUnited.png";
+import pennUnitedDemo from "../../Assets/Projects/pennUnitedDemo.mov";
+import uccc from "../../Assets/Projects/updatedCentralCoastComedy.png";
+import updatedCCCDemo from "../../Assets/Projects/updatedCCCDemo.mov";
+
 
 
 
@@ -23,26 +30,47 @@ function Projects() {
         <p style={{ color: "white" }}>
           Here are a few projects I've worked on recently.
         </p>
-        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={ccc}
-              isBlog={false}
-              title="Central Coast Comedy"
-              description="A dynamic and easy-to-manage website for Central Coast Comedy, built with custom PHP and WordPress. The site allows the client to effortlessly add and update events, comedian profiles, and announcements, with automatic formatting to maintain a professional look. Designed for seamless user experience, it features an intuitive layout, responsive design, and event booking integration, making it a go-to platform for comedy enthusiasts."
-              demoLink="https://www.centralcoastcomedy.com/"
-            />
-          </Col>
-
+        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}> 
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={nestFlow}
               isBlog={false}
               title="BizzNestFlow"
               description="BizzNestFlow is an intuitive and efficient internal tool designed to streamline workflows and enhance collaboration. Built with React.js, Node.js, and MySQL, it provides a seamless user experience for managing data, automating tasks, and integrating with existing systems. The platform ensures secure access controls, real-time data processing making it a scalable solution for teams looking to optimize their operations."
-              demoLink="/"
+              demoLink="https://flow.bizznest.org/"
+              videoLink={bizznestFlowDemo}
             />
-          </Col>      
+          </Col>  
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={botornot}
+              isBlog={false}
+              title="BotOrNot"
+              description="BotOrNot demonstrates my ability to design and deploy a scalable real-time app. It’s a multiplayer browser game powered by React and Socket.IO, with a Node.js backend running in Docker containers. Features include live chat, real-time voting, and AI-powered twists, making it both a fun experience for users and a showcase of my technical strengths in real-time systems and full-stack engineering."
+              demoLink="https://botornot.space/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={randomizer}
+              isBlog={false}
+              title="DigitalNest Scheduler"
+              description="The Gilroy Bizznest Scheduler is a simple yet efficient scheduling tool designed to streamline appointment management. Built using HTML, CSS, and JavaScript, the scheduler provides an intuitive user interface with time-slot selection, responsive design, and dynamic updates. Its lightweight structure ensures fast performance, making it an ideal solution for businesses or individuals looking for an easy-to-use scheduling system."
+              demoLink="https://bizznest.github.io/Gilroy-Bizznest_Scheduler/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ucsc}
+              isBlog={false}
+              title="UCSC MESA"
+              description="We are working on refining and optimizing the upcoming USCS MESA website by implementing modifications to improve functionality, accessibility, and user experience. Updates include UI enhancements, performance optimizations, and ensuring compliance with modern web standards. We are documenting all modifications in detail, providing a structured reference for future updates and maintenance, ensuring long-term scalability and ease of management."
+              demoLink="https://mesa.ucsc.edu/"
+            />
+          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -53,6 +81,17 @@ function Projects() {
               demoLink="https://occord.org/"              
             />
           </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={pennUnited}
+              isBlog={false}
+              title="Pennsylvania United"
+              description="Restructured the Pennsylvania United website to improve design, usability, and performance, ensuring a cleaner and more user-friendly experience. Using WordPress, PHP, and JavaScript, we integrated APIs to fetch event data from a third-party platform and display it dynamically. We built a custom filtering system based data provided by the API, enabling visitors to easily search and sort upcoming events by category, date, and location."
+              demoLink="https://paunited.org/"
+              videoLink={pennUnitedDemo}
+            />
+          </Col> 
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -76,21 +115,21 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={ucsc}
+              imgPath={ccc}
               isBlog={false}
-              title="UCSC MESA"
-              description="We are working on refining and optimizing the upcoming USCS MESA website by implementing modifications to improve functionality, accessibility, and user experience. Updates include UI enhancements, performance optimizations, and ensuring compliance with modern web standards. We are documenting all modifications in detail, providing a structured reference for future updates and maintenance, ensuring long-term scalability and ease of management."
-              demoLink="/"
+              title="Central Coast Comedy"
+              description="A dynamic and easy-to-manage website for Central Coast Comedy, built with custom PHP and WordPress. The site allows the client to effortlessly add and update events, comedian profiles, and announcements, with automatic formatting to maintain a professional look. Designed for seamless user experience, it features an intuitive layout, responsive design, and event booking integration, making it a go-to platform for comedy enthusiasts."
+              demoLink="https://www.centralcoastcomedy.com/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={randomizer}
+              imgPath={uccc}
               isBlog={false}
-              title="DigitalNest Scheduler"
-              description="The Gilroy Bizznest Scheduler is a simple yet efficient scheduling tool designed to streamline appointment management. Built using HTML, CSS, and JavaScript, the scheduler provides an intuitive user interface with time-slot selection, responsive design, and dynamic updates. Its lightweight structure ensures fast performance, making it an ideal solution for businesses or individuals looking for an easy-to-use scheduling system."
-              demoLink="https://bizznest.github.io/Gilroy-Bizznest_Scheduler/"
+              title="Updated Central Coast Comedy"
+              description="A dynamic upgraded website for Central Coast Comedy that was never launched. This sort of style gives it a bit more color to it and a more modern look. It has a responsive design and event booking integrattion, making it an easy platform to use for comedy enthustiasts."
+              videoLink={updatedCCCDemo}
             />
           </Col>
         </Row>
