@@ -112,6 +112,16 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={daneCervine}
+              isBlog={false}
+              title="Dane Cervine - Author & Therapist"
+              description="A responsive WordPress site built to highlight books, writings, and therapy services. Beyond the custom design, I implemented PHP code to override WordPress post behavior, using category-based rules to redirect posts to external or custom pages. This ensures a seamless navigation flow while giving the client flexibility to organize and present content outside of WordPress defaults."
+              demoLink = "https://danecervine.com/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={ccc}
               isBlog={false}
               title="Central Coast Comedy"
@@ -127,16 +137,6 @@ function Projects() {
               title="Updated Central Coast Comedy"
               description="A dynamic upgraded website for Central Coast Comedy that was never launched. This sort of style gives it a bit more color to it and a more modern look. It has a responsive design and event booking integrattion, making it an easy platform to use for comedy enthustiasts."
               videoLink="https://www.youtube.com/watch?v=mxAq1xdEiwU"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={daneCervine}
-              isBlog={false}
-              title="Dane Cervine - Author & Therapist"
-              description="A responsive WordPress site built to highlight books, writings, and therapy services. Beyond the custom design, I implemented PHP code to override WordPress post behavior, using category-based rules to redirect posts to external or custom pages. This ensures a seamless navigation flow while giving the client flexibility to organize and present content outside of WordPress defaults."
-              demoLink = "https://danecervine.com/"
             />
           </Col>
         </Row>
