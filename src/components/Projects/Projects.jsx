@@ -13,6 +13,7 @@ import botornot from "../../Assets/Projects/botOrNot.png";
 import pennUnited from "../../Assets/Projects/pennUnited.png";
 import uccc from "../../Assets/Projects/updatedCentralCoastComedy.png";
 import daneCervine from "../../Assets/Projects/daneCervine.jpeg";
+import devstartaithumbnail from "../../Assets/Projects/DevStartAIThumbnail.png"
 
 
 
@@ -38,6 +39,17 @@ function Projects() {
               videoLink="https://www.youtube.com/watch?v=J9kfuBwib8E"
             />
           </Col>  
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={devstartaithumbnail}
+              isBlog={false}
+              title="DevStartAI"
+              description="DevStartAI is a backend project generator that helps developers quickly create ready-to-run API projects without starting from scratch. It lets users choose a tech stack (FastAPI or Express), optional databases, and Docker support, then downloads a fully structured project that runs immediately.
+              The goal is to reduce repetitive setup work and provide clean, production-ready starting points for real-world backend development."
+              videoLink="https://youtu.be/LPm1QEfClSM"
+            />
+          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
