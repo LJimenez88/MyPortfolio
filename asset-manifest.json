@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2aec7096.css",
-    "main.js": "/static/js/main.cb0fde87.js",
+    "main.css": "/static/css/main.325f7910.css",
+    "main.js": "/static/js/main.71b2f618.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/occord.png": "/static/media/occord.b09b12da0e8ad3f7be47.png",
     "static/media/digitalNest.png": "/static/media/digitalNest.5a7f6afe3d16b205c656.png",
@@ -12,6 +12,7 @@
     "static/media/updatedCentralCoastComedy.png": "/static/media/updatedCentralCoastComedy.663276fcfd38408c210c.png",
     "static/media/randomizer.png": "/static/media/randomizer.7a3cc0e906fba8b370b6.png",
     "static/media/nestFlow.png": "/static/media/nestFlow.c46fcdd53dab1646ac07.png",
+    "static/media/DevStartAIThumbnail.png": "/static/media/DevStartAIThumbnail.6ada1b9dba21a383dd1e.png",
     "static/media/botOrNot.png": "/static/media/botOrNot.bd1c564237c534d9a139.png",
     "static/media/daneCervine.jpeg": "/static/media/daneCervine.8a9fe1ef90fa54171afb.jpeg",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
@@ -21,12 +22,12 @@
     "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
-    "main.2aec7096.css.map": "/static/css/main.2aec7096.css.map",
-    "main.cb0fde87.js.map": "/static/js/main.cb0fde87.js.map",
+    "main.325f7910.css.map": "/static/css/main.325f7910.css.map",
+    "main.71b2f618.js.map": "/static/js/main.71b2f618.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2aec7096.css",
-    "static/js/main.cb0fde87.js"
+    "static/css/main.325f7910.css",
+    "static/js/main.71b2f618.js"
   ]
 }
