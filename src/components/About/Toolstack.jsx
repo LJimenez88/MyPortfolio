@@ -10,7 +10,7 @@ import {
 import {
   DiGit
 } from "react-icons/di";
-import { FaAws, FaMicrosoft, FaLinux, FaWindows } from "react-icons/fa";
+import { FaAws, FaWindows } from "react-icons/fa";
 import { BiLogoMicrosoftTeams } from "react-icons/bi";
 
 function Toolstack() {
