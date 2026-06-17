@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.325f7910.css",
-    "main.js": "/static/js/main.9f529e7f.js",
+    "main.js": "/static/js/main.369bc6b1.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/occord.png": "/static/media/occord.b09b12da0e8ad3f7be47.png",
     "static/media/digitalNest.png": "/static/media/digitalNest.5a7f6afe3d16b205c656.png",
@@ -17,17 +17,17 @@
     "static/media/daneCervine.jpeg": "/static/media/daneCervine.8a9fe1ef90fa54171afb.jpeg",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Lisandro_Jimenez.pdf": "/static/media/Lisandro_Jimenez.3b52fc5cb1b2debbe8d8.pdf",
+    "static/media/Lisandro_Jimenez_IT_Communications.pdf": "/static/media/Lisandro_Jimenez_IT_Communications.cc86e3d1fffc4b45c939.pdf",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.325f7910.css.map": "/static/css/main.325f7910.css.map",
-    "main.9f529e7f.js.map": "/static/js/main.9f529e7f.js.map",
+    "main.369bc6b1.js.map": "/static/js/main.369bc6b1.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.325f7910.css",
-    "static/js/main.9f529e7f.js"
+    "static/js/main.369bc6b1.js"
   ]
 }
