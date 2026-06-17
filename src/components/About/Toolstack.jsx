@@ -10,10 +10,21 @@ import {
 import {
   DiGit
 } from "react-icons/di";
+import { FaAws, FaMicrosoft, FaLinux, FaWindows } from "react-icons/fa";
+import { BiLogoMicrosoftTeams } from "react-icons/bi";
 
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
+      <Col xs={4} md={2} className="tech-icons">
+        <FaWindows />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <BiLogoMicrosoftTeams />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <FaAws />
+      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode />
       </Col>

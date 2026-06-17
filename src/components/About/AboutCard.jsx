@@ -11,8 +11,9 @@ function AboutCard() {
             Hi everyone, I am <span className="purple">Lisandro Jimenez </span>
             from <span className="purple"> Salinas, California.</span>
             <br />
-            I am currently employed as a <span className="purple">Senior Web Developer Intern</span> at <span className="purple">DigitalNest.</span>
+            I am currently employed as a <span className="purple">Outreach Coordinator</span> at <span className="purple">Community Bridges.</span>
             <br />
+            Previously employed as a <span className="purple">Senior Software Engineer Associate</span> at <span className="purple">DigitalNest.</span>
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
@@ -24,7 +25,7 @@ function AboutCard() {
               <ImPointRight /> Traveling
             </li>
             <li className="about-activity">
-              <ImPointRight /> Off-roading through rough trails, riding bulls, and embracing the outdoors.
+              <ImPointRight /> Embracing the outdoors.
             </li>
           </ul>
 
